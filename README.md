@@ -37,3 +37,16 @@ Here are four actors I think could play the main role in *Real Steel* replacing 
 
 > "If you do not believe in yourself, no one will do it for you"
 >> *Kobe Bryant*
+
+---
+
+# Code Snippet: SQL COUNT Command
+The *COUNT* command in SQL returns the number of rows that match a specified condition. This can be useful for aggregating data in a table.
+
+```
+SELECT COUNT(column_name)
+FROM table_name
+WHERE condition;
+```
+
+10th code snippet on the page <https://pieces.app/collections/sql>
