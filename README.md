@@ -29,4 +29,11 @@ Here are four actors I think could play the main role in *Real Steel* replacing 
 | Ryan Reynolds     | Brings charm and humour.      | 48    |
 | Tom Hardy         | Tough and intense actor.      | 47    |
 
+---
 
+# Favorite Quotes
+> "There is no way around hard work. Embrace it."
+>> *Roger Federer*
+
+> "If you do not believe in yourself, no one will do it for you"
+>> *Kobe Bryant*
