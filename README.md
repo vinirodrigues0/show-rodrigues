@@ -8,4 +8,9 @@ Stroganoff just brings back **childhood memories**. My mom used to make it all t
 ## Where to find my favorite food
 1. My house
 2. Restaurants
-3. Supermakets
+3. Supermarkets
+
+* Rice
+* Potato Sticks
+* Garlic Bread
+* Steamed Vegetables
