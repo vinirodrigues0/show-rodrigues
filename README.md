@@ -16,3 +16,17 @@ Stroganoff just brings back **childhood memories**. My mom used to make it all t
 * Steamed Vegetables
 
 **[Check out my favorite movie](MyMovie.md)**
+
+---
+
+# Table - Actors for Real Steel
+Here are four actors I think could play the main role in *Real Steel* replacing Hugh Jackman. These actors could bring something unique to the role!
+
+| Actor             | Reason for Choosing           | Age   |
+| :---------------: | :---------------------------: | :---: |
+| Chris Evans       | Physical and determined.      | 43    |
+| Michael B. Jordan | Athletic and strong presence. | 37    |
+| Ryan Reynolds     | Brings charm and humour.      | 48    |
+| Tom Hardy         | Tough and intense actor.      | 47    |
+
+
